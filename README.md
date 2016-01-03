@@ -8,7 +8,9 @@ Each combination generated is stored in order to garentue unique generation.
 ##Options
 
 `-o` Sets the default category to be used for all enviroments **Can only be specified once**
+
 `-e` Defines an enviroment for release name to be generated for. An optional category can be specified.
+
 `-h` Prints the help dialog
 
 ##Examples
