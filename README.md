@@ -3,7 +3,7 @@ Inspired by: https://github.com/tkambler/grunt-release-name-generator
 
 ##Overview
 Generates a random unique release name along the following pattern [adjective] [animal].
-Each combination generated is stored in order to garentue unique generation.
+Each combination generated is stored in order to guarantee unique generation.
 
 ##Options
 
